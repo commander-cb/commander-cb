@@ -1,5 +1,11 @@
 🛩️All broken again. 
-
+🌹Keras 1.0.8
+⚡theano
+🧩numpy
+🫖scipy
+✈️matplotlib
+🛫python 3.10
+💺
 ____________
 Python 3.10
 Theano. 1.0.5
