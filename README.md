@@ -3,24 +3,24 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-+ 📫 How to reach me ...
+- 📫 How to reach me ...
 
 
 - 🛩️ All broken again.  /n
 - 🌹 Keras 1.0.8.     /n
 - ⚡ theano
--🧩 numpy
--🫖 scipy
--✈️ matplotlib
--🛫 python 3.10
--💺. 
+- 🧩 numpy
+- 🫖 scipy
+- ✈️ matplotlib
+- 🛫 python 3.10
+- 💺. 
 ____________
--Python 3.10
--Theano. 1.0.5
--Numpy.  1.22.0.dev ....
--Matplotlib. 3.5.0 dev....
--Scipy.  1.8.0.dev ....
--Keras.   1.0.8
+- Python 3.10
+- Theano. 1.0.5
+- Numpy.  1.22.0.dev ....
+- Matplotlib. 3.5.0 dev....
+- Scipy.  1.8.0.dev ....
+- Keras.   1.0.8
 -      Tensor flow broken till ...  Grpcio ...?
 
 
