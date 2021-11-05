@@ -11,9 +11,15 @@
 - ⚡ theano
 - 🧩 numpy
 - 🫖 scipy
-- ✈️ matplotlib
+- ✈️ matplotlib.  Was fixed, now broken, 
+- webagg needs tornado and tk for bindings
+-
 - 🛫 python 3.10
-- 💺. 
+- 💺. Pillow 3.0.0.    
+- pyzmq
+- - pkg install libzmq &&. Pip install pyzmq
+Successfully installed joblib-1.1.0 scikit-learn-1.0.1 sklearn-0.0 threadpoolctl-3.0.0
+
 ____________
 - Python 3.10
 - Theano. 1.0.5
@@ -22,6 +28,7 @@ ____________
 - Scipy.  1.8.0.dev ....
 - Keras.   1.0.8
 -      Tensor flow broken till ...  Grpcio ...?
+
 
 
 
