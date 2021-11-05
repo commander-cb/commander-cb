@@ -13,6 +13,7 @@
 - 🫖 scipy
 - ✈️ matplotlib.  Was fixed, now broken, 
 - webagg needs tornado and tk for bindings
+- matplotlib 3.0.0 no backend. ....might b worky
 -
 - 🛫 python 3.10
 - 💺. Pillow 3.0.0.    
