@@ -1,4 +1,4 @@
-
+- interesting.  Import pyAudioAnalysis
 
 - 👀 
 - 🌱 
@@ -6,8 +6,8 @@
 - 📫 
 
 
-- 🛩️ All broken again.  /n
-- 🌹 Keras 1.0.8.     /n
+- 🛩️ All ?? again.  /n
+- 🌹 Keras 1.0.8.     /n not right
 - ⚡ theano
 - 🧩 numpy
 - 🫖 scipy
