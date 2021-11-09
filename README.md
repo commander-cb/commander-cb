@@ -25,29 +25,22 @@ ____________
 - Python 3.10
 - Theano. 1.0.5
 - Numpy.  1.22.0.dev ....
-- Matplotlib. 3.5.0 dev....
+- Matplotlib. 3.5.0 dev....down to 3.2.2 *
 - Scipy.  1.8.0.dev ....
 - Keras.   1.0.8
 -      Tensor flow broken till ...  Grpcio ...?
 
+- * might 🆘 help latr
 
-
-
-
-
- 👋 Hi, I’m @commander-cb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
-commander-cb/commander-cb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+commander-cb/commander-cb is a ✨ special ✨
+You 
 --->
 - 👋 Hi, I’m @commander-cb
-- 👀 I’m interested in - 
+- 👀 I’m interested in - pyAudioAnalysis py. aubio
 - 🌱 I’m currently learning - 
-- 💞️ I’m looking to collaborate on - 
+- 💞️ I’m looking to collaborate on -   audio
 - 📫 How to reach me - 
 
+(778) 650-5722
