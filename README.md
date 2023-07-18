@@ -1,4 +1,6 @@
-
+for the recxord ....
+humans are naiive and not too bright, 
+i expect AI `can` destroy civilization with TEXT messages alone ...
 
 - Interested in
 
